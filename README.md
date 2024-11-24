@@ -1,5 +1,24 @@
-# Unity-Platformer-Episode-15
-In this episode we'll add the ability to pause the game and a pause menu with some cool options like changing the volume of the sounds and music. We'll also discuss regions and PlayerPrefs.
-https://www.youtube.com/watch?v=2pk1PPlS5Xs&ab_channel=Pandemonium
+Draco & Forest
+Overview
+Welcome to the Draco & Forest project! This project is developed using Unity 2022 LTS.
 
-➤ Support the channel on Patreon: https://www.patreon.com/pandemonium_games
+Requirements
+Unity 2022 LTS
+Visual Studio or any other C# IDE
+Git for version control
+Getting Started
+Clone the repository:
+git clone <[repository-url](https://github.com/pranx2/Draco----Forest.git)>
+Open the project in Unity 2022 LTS.
+Open the Scenes folder and load the main scene to start working on the project.
+Contributing
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Commit your changes (git commit -am 'Add new feature').
+Push to the branch (git push origin feature-branch).
+Create a new Pull Request.
+License
+This project is licensed under the MIT License.
+
+Contact
+For any questions or feedback, please contact the project maintainers.
