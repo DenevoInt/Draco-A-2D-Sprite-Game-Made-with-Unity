@@ -10,13 +10,23 @@ Welcome to the Draco project! This project is developed using Unity 2022 LTS.
 - Visual Studio or any other C# IDE
 - Git for version control
 
-### How To play
+
+
+---
 
 #### Click on the link [Here!](https://denevointeractive.itch.io/draco) or click on the left side of the URL
 
-#### Password/Key :```html
-draco
-```
+---
+
+#### Password/Key :
+
+> draco
+
+---
+
+
+
+### How To play
 
 ### License
 
