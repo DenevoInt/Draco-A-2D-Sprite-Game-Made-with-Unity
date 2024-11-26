@@ -6,7 +6,7 @@ Welcome to the Draco project! This project is developed using Unity 2022 LTS.
 
 ### Requirements
 
-- Unity 2022 LTS
+- Unity 2020 LTS
 - Visual Studio or any other C# IDE
 - Git for version control
 
