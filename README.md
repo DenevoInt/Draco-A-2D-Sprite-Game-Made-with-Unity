@@ -2,7 +2,7 @@
 
 ### Overview
 
-Welcome to the Draco project! This project is developed using Unity 2022 LTS.
+Welcome to the Draco project! This project is developed using Unity 2020 LTS.
 
 ### Requirements
 
@@ -14,7 +14,7 @@ Welcome to the Draco project! This project is developed using Unity 2022 LTS.
 
 ### How to Play
 
-#### Click on the link Here! or click on the left side of the URL
+#### Click on the link [Here!](https://denevointeractive.itch.io/draco) or click on the left side of the URL
 
 ---
 
